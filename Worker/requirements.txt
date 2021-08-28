@@ -1,0 +1,6 @@
+flask-restful
+flask
+requests
+datetime
+bs4
+psycopg2
